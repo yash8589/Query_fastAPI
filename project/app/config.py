@@ -1,6 +1,6 @@
 # app/config.py
 
 HUGGING_FACE_API_KEY = (
-    "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" 
+    "access_token" 
 )
 HUGGING_FACE_MODEL = "mistralai/Mistral-Nemo-Instruct-2407"
